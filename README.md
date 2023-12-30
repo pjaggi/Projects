@@ -1,1 +1,1 @@
-The above files include my Test Engineering poster and UVM presentation. Additionally, I have added my files for my multicore processor. The source folder contains my entire design which inclues caches and various other logic blocks.
+The above files include my Test Engineering poster and UVM presentation. Additionally, I have added my files for my multicore processor. The source folder contains my entire design which inclues caches, pipelining and various other logic blocks.
